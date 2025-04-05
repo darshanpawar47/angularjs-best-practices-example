@@ -13,6 +13,6 @@
     "angular-ui-router": "1.0.0-beta.3"
   },
   "resolutions": {
-    "angular-ui-router": "1.0.0-beta.3"
+    "angular": "1.5.11"
   }
 }
