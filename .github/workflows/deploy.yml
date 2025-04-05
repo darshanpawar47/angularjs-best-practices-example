@@ -3,7 +3,7 @@ name: CI/CD Pipeline for AngularJS to AWS EC2
 on:
   push:
     branches:
-      - main
+      - master
 
 env:
   AWS_REGION: us-east-1                  # Replace with your AWS region
